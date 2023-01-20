@@ -22,6 +22,7 @@ Awesome technologies and other stuff
 * [Awesome C++](https://github.com/fffaraz/awesome-cpp) - Speaks for itself.
 * [Awesome HPP](https://github.com/p-ranav/awesome-hpp) - Awesome list of header-only C++ libs.
 * [Dear ImGui](https://github.com/ocornut/imgui) - Bloat-free Graphical User interface with minimal dependencies.
+* [ImTui](https://github.com/ggerganov/imtui) - Dear ImGui ncurses backend.
 * [Stockfish](https://github.com/official-stockfish/Stockfish) - Strongest chess engine on now.
 ### BitTorrent ###
 * [libtorrent-rasterbar](https://libtorrent.org/) - Most spreaded implementation.
