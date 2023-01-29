@@ -14,6 +14,7 @@ Awesome technologies and other stuff
 
 ## C ##
 * [Awesome C](https://github.com/uhub/awesome-c) - Awesome C libs, many header-only.
+* [Vurtun libs](https://github.com/vurtun/lib/) - Set of header-only libs
 ### Compilers ###
 * [Tiny C Compiler](http://savannah.nongnu.org/projects/tinycc) - Compiler and library able to compile C99 in memory.
 ### Crypto ###
